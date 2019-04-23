@@ -121,6 +121,7 @@ TitledBorder t = new TitledBorder("Datos del Comprador");
 panelDatos.setBorder(t);
 ```
 El resultado actual es el siguiente:
+
 ![Alt text](img/imagen3.png?raw=true "Formulario con talonario de números con datos")
 
 ## Adicionar datos al JButton
@@ -205,6 +206,7 @@ for(Integer i = 0; i<NUMEROS; i++) {
 }
 ```
 Si el número no está comprado se carga:
+
 ![Alt text](img/imagen4.png?raw=true "Formulario con talonario de números con datos y numero seleccionado")
 
 ## Agregar eventos al formulario de datos
