@@ -1,5 +1,5 @@
 # LoteriaJava
-Formulario de Loteria desarrollado utilizando Java
+Formulario de Loteria desarrollado utilizando Java y JSwing.  Se crean los formulario para el registro de los números, utilizando una clase que extiende de JButton.  Se realiza un array de Botones para representar el talonario y con el uso de un Timer se realiza el sorteo final inverso, es decir se van eliminando todos los numeros y el último es el ganador.
 
 ## Crear el formulario principal
 Para crear Inicialmente el formulario se debe utilizar la siguiente sentencia:
