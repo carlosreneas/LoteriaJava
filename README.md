@@ -299,3 +299,11 @@ public void sortear(){
 El resultado del codigo es el siguiente:
 ![Alt text](img/imagen7.png?raw=true "Ventana final resultado del ejercicio")
 
+## Construido con 🛠️
+
+* [BlueJ](https://www.bluej.org/) - IDE para desarrollo
+* [Java](https://www.java.com/es/) - Lenguaje de programación
+
+## Autores ✒️
+Carlos Rene Angarita Sanguino
+Claudia Yamile Gomez Llanez
