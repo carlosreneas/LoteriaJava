@@ -305,5 +305,6 @@ El resultado del codigo es el siguiente:
 * [Java](https://www.java.com/es/) - Lenguaje de programación
 
 ## Autores ✒️
-Carlos Rene Angarita Sanguino
-Claudia Yamile Gomez Llanez
+* **Carlos Rene Angarita Sanguino** - *Trabajo Inicial* - [carlosreneas](https://github.com/carlosreneas)
+* **Claudia Yamile Gomez Llanez** - *Documentación - Codificación* 
+
