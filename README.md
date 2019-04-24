@@ -306,5 +306,5 @@ El resultado del codigo es el siguiente:
 
 ## Autores ✒️
 * **Carlos Rene Angarita Sanguino** - *Trabajo Inicial* - [carlosreneas](https://github.com/carlosreneas)
-* **Claudia Yamile Gomez Llanez** - *Documentación - Codificación* 
+* **Claudia Yamile Gomez Llanez** - *Documentación - Codificación* - [claudiagomezll](https://github.com/claudiagomezll)
 
